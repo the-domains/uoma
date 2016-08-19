@@ -1,0 +1,14 @@
+layout_spectrum: 0.4259520217310637
+typography_spectrum: 0.11594167281873524
+color:
+  brandStrength: 0.4483113856986165
+  lightness: 0.9390048456843942
+  saturation: 0.20968633703887463
+  rhythmicContrast: 0.901950805215165
+  brandColors:
+    - '#545454'
+    - '#FF5B5B'
+    - '#FFE9C7'
+    - '#2D2D2F'
+    - '#70E8CB'
+name: uoma
