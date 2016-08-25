@@ -1,14 +1,18 @@
-layout_spectrum: 0.4259520217310637
-typography_spectrum: 0.11594167281873524
+layout_spectrum: 0.5866484136786312
+typography_spectrum: 0.3333004948217422
 color:
-  brandStrength: 0.4483113856986165
-  lightness: 0.9390048456843942
-  saturation: 0.20968633703887463
-  rhythmicContrast: 0.901950805215165
+  brandStrength: 0.5194576198700815
+  lightness: 0.8645629149395972
+  saturation: 0.9384675030596554
+  rhythmicContrast: 0.6951499304268509
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/afaa2c6c-cb18-4aeb-8960-bf57b4dd4d5d.svg
 name: uoma
+title: studios
+description: studios
