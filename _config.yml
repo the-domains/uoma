@@ -1,4 +1,3 @@
-layout_spectrum: 0.5866484136786312
 typography_spectrum: 0.3333004948217422
 color:
   brandStrength: 0.5194576198700815
@@ -11,8 +10,9 @@ color:
     - '#A1E8D9'
     - '#FF712C'
     - '#695D46'
+layout_spectrum: 0.5866484136786312
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/afaa2c6c-cb18-4aeb-8960-bf57b4dd4d5d.svg
 name: uoma
-title: studios
+title: UOMA
 description: studios
